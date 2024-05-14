@@ -1,0 +1,14 @@
+{
+  "name": "interest-calculator-plugin",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://acerohernan.com/",
+  "scripts": {
+    "dev:env": "wp-env start",
+    "build:zip": "./bin/build-zip.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0+"
+}

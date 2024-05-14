@@ -1,0 +1,12 @@
+.*
+.*/
+*.lock
+*.map
+*.md
+*.zip
+/bin/
+/build/
+/node_modules/
+/tests/
+package-lock.json
+package.json
